@@ -1,8 +1,14 @@
+import Chai from './chai'
+
 
 function App() {
 
   return (
-    <h1>Hello I am using Vite || Daksh Sharma </h1>
+    <>
+    <Chai />
+    <h1>this is for test </h1>
+    <p>hahahaha test para</p>
+    </>
   )
 }
 
